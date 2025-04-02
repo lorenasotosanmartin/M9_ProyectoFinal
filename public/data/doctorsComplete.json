@@ -2,7 +2,7 @@
     "doctors2": [
         {
             "id": 5,            
-            "imagen": "src/assets/img/dr_zapata.jpg",
+            "imagen": "/img/dr_zapata.jpg",
             "nombre": "Jorge Garrido",
             "especialidad": "Pediatria",
             "descripcion": "Con años de experiencia, nuestro pediatra Jorge Garrido se enfoca en la atenciòn de niños desde su nacimiento hasta su adolescencia.",
@@ -10,7 +10,7 @@
         },
         {
             "id": 6,  
-            "imagen": "src/assets/img/dr_zambrano.jpg",
+            "imagen": "/img/dr_zambrano.jpg",
             "nombre": "Samuel Gonzalez",
             "especialidad": "Cirugia general",
             "descripcion": "Samuel Gonzalez, es un profesional reconocido medico cirugano y se especializa en cirugia asociadas a apatalogias comunes ",
@@ -18,7 +18,7 @@
         },
         {
             "id": 7,  
-            "imagen": "src/assets/img/dr_guzman.jpg",
+            "imagen": "/img/dr_guzman.jpg",
             "nombre": "Carolina Perez",
             "especialidad": "Psicologia",
             "descripcion": "Nuestra Psicologa Carolina Perez, se especializa en la psicoterapia en adultos y adolescentes con enfoque integral y practico",
@@ -26,7 +26,7 @@
         },
         {
             "id": 8,  
-            "imagen": "src/assets/img/dr_fuentes.jpg",
+            "imagen": "/img/dr_fuentes.jpg",
             "nombre": "Javiera Ruiz",
             "especialidad": "Nutricionista",
             "descripcion": "Nuestra nustricionista Javiera Ruiz, se especializa en la nutricion integral de adultos y adolescentes en base a planes efectivos y saludables",

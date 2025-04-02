@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Form, Button, Alert } from "react-bootstrap";
-import Logo from "../assets/img/logo.png";
+import Logo from "../../public/img/logo.png";
 import { useNavigate } from "react-router-dom";
 import {useAuth}  from "../context/AuthContext";
 import bcrypt from 'bcryptjs'

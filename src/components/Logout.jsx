@@ -19,7 +19,7 @@ export default function Logout() {
   return (
     <Navbar expand="lg">
       <Container className="my-3">
-      <img  src="src\assets\img\logo.png" alt="Logo clinica chillán" title="Logo clinica chillán"
+      <img  src="/img/logo.png" alt="Logo clinica chillán" title="Logo clinica chillán"
             width="100" height="45"/>
        <a > <i onClick={logout} className="bi bi-box-arrow-in-right" style={{fontSize:'2rem', marginLeft:'2rem', color:'#0D6EFD'}}></i> </a>
       </Container>
