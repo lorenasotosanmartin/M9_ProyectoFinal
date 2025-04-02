@@ -7,6 +7,12 @@ Mediante un desarrollo incremental, se abordaron e implementaron funcionalidades
 Es importante destacar que mediante el desarrollo de este proyecto, se recibio feeedback que permitio realizar mejoras referente a estructura del proyecto, aplicación de estilos y aspectos de seguridad.
 
 ### Principales funcionalidades
+- Listado de servicios
+- Listado de doctores
+- Formulario de contacto
+- Agenda de cita
+- Dashboard administrador
+- Dashboard Doctor
 
 ### Tecnologías utilizadas
 - **React**: Biblioteca JavaScript para construir interfaces de usuario
@@ -21,7 +27,7 @@ Para visualizar este proyecto se necesita que previamente cuentes con la instala
   
 Una vez que ya cuentes con lo descrito anteriormente, debes clonar este repositorio en una carpeta local, mediante el siguiente comando:
 ```bash
-git clone https://github.com/lorenasotosanmartin/M6_EJ2.git
+git clone https://github.com/lorenasotosanmartin/M9_ProyectoFinal.git
 ```
 cuando ya este clonado, escribir el siguiente comando en la consola: 
 ```bash
