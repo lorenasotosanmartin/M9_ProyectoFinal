@@ -7,12 +7,14 @@ Mediante un desarrollo incremental, se abordaron e implementaron funcionalidades
 Es importante destacar que mediante el desarrollo de este proyecto, se recibio feeedback que permitio realizar mejoras referente a estructura del proyecto, aplicación de estilos y aspectos de seguridad.
 
 ### Principales funcionalidades
-- **Listado de servicios**:
-- **Listado de doctores**:
-- **Formulario de contacto**:
-- **Agenda de cita**:
-- **Dashboard Administrador**:
-- **Dashboard Doctor**:
+- **Listado de servicios**: En la página principal del sitio web, se puede ver el listado de los principales servicios médicos disponibles en la clínica, esta información se muestra de forma dinámica mediante el consumo de un api. 
+- **Listado de doctores**: En la página “servicios” del sitio web, se puede ver el listado e información de los profesionales médicos, destacando información asociada a su especialidad, años de experiencia y descripción de los servicios brindados, esta información se muestra de forma dinámica mediante el consumo de un api. 
+- **Formulario de contacto**: En la pagina “contacto” del sitio web, se encuentra un formulario para que los usuarios del sitio se puedan contactar con personal de la clínica.
+- **Agenda de cita**: Al seleccionar el botón “reservar en cita” en el navbar o pagina de servicios del sitio web, se puede acceder a un formulario que permite realizar una reserva con algunos de los profesionales disponibles. 
+- **Dashboard Administrador**: Esta sección, está disponible solo para el usuario con el rol “administrador” y presenta un listado resumen con todas las citas médicas agendadas en la clinica y la opción de confirmar la asistencia del paciente o cancelarla. Cabe destacar, que para ingresar a esta sección se deben validar los datos de usuario en un Login inicial y cuenta con rutas protegidas para bloquear el acceso a cualquier otro tipo de usuario.
+  - **datos de acceso**: user: adminsitrador, clave: admin123! 
+- **Dashboard Doctor**: Esta sección, está disponible solo para los usuarios con el rol “doctor” y presenta un listado resumen con todas las citas médicas asociadas al doctor que inicio sesión. Cabe destacar, que para ingresar a esta sección se deben validar los datos de usuario en un Login inicial y cuenta con rutas protegidas para bloquear el acceso a cualquier otro tipo de usuario.
+  - **datos de acceso**: user: felipeZapata, clave: felipeZapata123! 
 
 ### Tecnologías utilizadas
 - **React**: Biblioteca JavaScript para construir interfaces de usuario
