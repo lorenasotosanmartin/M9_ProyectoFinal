@@ -7,6 +7,12 @@ Mediante un desarrollo incremental, se abordaron e implementaron funcionalidades
 Es importante destacar que mediante el desarrollo de este proyecto, se recibio feeedback que permitio realizar mejoras referente a estructura del proyecto, aplicación de estilos y aspectos de seguridad.
 
 ### Principales funcionalidades
+- Listado de servicios
+- Listado de doctores
+- Formulario de contacto
+- Agenda de cita
+- Dashboard administrador
+- Dashboard Doctor
 
 ### Tecnologías utilizadas
 - **React**: Biblioteca JavaScript para construir interfaces de usuario
