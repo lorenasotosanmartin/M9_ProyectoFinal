@@ -41,3 +41,8 @@ Finalmente, para visualizar el proyecto en tu navegador debes abrir la url: http
 
 ### Alojamiento del proyecto
 De igual forma, el proyecto se encuentra alojado en la web, mediante el uso de la herramenta Vercel, para visitarlo, puedes ingresar a la siguiente URL: https://clinica-chillan.vercel.app/
+
+### Autores
+- **Lorena Soto San Martin** 
+  [GitHub](https://github.com/brayandiazc)
+  [Portafolio](https://portafolio-lorena-soto.vercel.app/)
