@@ -21,7 +21,7 @@ Para visualizar este proyecto se necesita que previamente cuentes con la instala
   
 Una vez que ya cuentes con lo descrito anteriormente, debes clonar este repositorio en una carpeta local, mediante el siguiente comando:
 ```bash
-git clone https://github.com/lorenasotosanmartin/M6_EJ2.git
+git clone https://github.com/lorenasotosanmartin/M9_ProyectoFinal.git
 ```
 cuando ya este clonado, escribir el siguiente comando en la consola: 
 ```bash
